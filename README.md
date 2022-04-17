@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <a href=""><img src="https://github.com/OScomp-proj118/Oscomp-project118/blob/master/img/logo.png?raw=true" alt="my_neovim"></a>
+  <a href=""><img src="https://github.com/OScomp-proj118/Oscomp-project118/blob/main/img/logo.png?raw=true" alt="ebpf"></a>
 </p>
 
 <div align="center">
