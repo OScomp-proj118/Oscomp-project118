@@ -26,3 +26,4 @@ _✨ Fighting! ✨_
 -   https://davidlovezoe.club/wordpress/archives/tag/bpf  一个大佬的 blog
 -   https://ebpf.io/zh-cn/  中文官方
 -   https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html 学习ebpf跟踪，以一个初学者的身份开始吧
+-   https://davidlovezoe.club/wordpress/archives/tag/bpf 一个ebpf学习者分享的学习心得
