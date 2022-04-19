@@ -16,9 +16,9 @@ _✨ Fighting! ✨_
 
 ## 以下是一些参考文档：
 
-1. https://www.ebpf.top/ 在这里可以比较全面地了解 ebpf 基础知识 2.
-2. https://github.com/libbpf/libbpf-bootstrap/ 这里面有用 libbpf 写的 examples 3.
-3. https://github.com/iovisor/bcc BCC 工具。不过 BCC 的可移植性和开销不如 libbpf 4.
+1. https://www.ebpf.top/ 在这里可以比较全面地了解 ebpf 基础知识 
+2. https://github.com/libbpf/libbpf-bootstrap/ 这里面有用 libbpf 写的 examples 
+3. https://github.com/iovisor/bcc BCC 工具。不过 BCC 的可移植性和开销不如 libbpf 
 4. https://www.youtube.com/watch?v=sK5i-N34im8 容器的技术基础是 cgroup 和 namespace，判断进程是否属于同一个容器的简单标准是看它们在不在同一个命名空间之中
 
 ## 参考资料
