@@ -27,3 +27,4 @@ _✨ Fighting! ✨_
 -   https://ebpf.io/zh-cn/  中文官方
 -   https://www.brendangregg.com/blog/2019-01-01/learn-ebpf-tracing.html 学习ebpf跟踪，以一个初学者的身份开始吧
 -   https://davidlovezoe.club/wordpress/archives/tag/bpf 一个ebpf学习者分享的学习心得
+-   https://blog.csdn.net/weixin_42152531/article/details/120543324?msclkid=1b1ba209c0c311ecaba1eff0ff6e8714 linux 容器与capability
