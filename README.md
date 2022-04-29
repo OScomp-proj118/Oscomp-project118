@@ -21,6 +21,7 @@ _✨ Fighting! ✨_
 3. https://github.com/iovisor/bcc BCC 工具。不过 BCC 的可移植性和开销不如 libbpf 
 4. https://www.youtube.com/watch?v=sK5i-N34im8 容器的技术基础是 cgroup 和 namespace，判断进程是否属于同一个容器的简单标准是看它们在不在同一个命名空间之中
 5. https://zhuanlan.zhihu.com/p/480811707 配合ebpf快速入门实用
+6. https://blog.csdn.net/qq_34258344/article/details/108155481 有关bcc使用的一些源码展示
 
 ## 参考资料
 
